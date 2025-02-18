@@ -22,4 +22,3 @@ The project includes **simulation (Vivado/ModelSim)** and **hardware testing** o
 
 ---
 
-## 📂 Project Structure
